@@ -78,6 +78,12 @@ export const siteContent: SiteContent = {
     'Teaching moments, yoga poses, and memorable wellness practice highlights.',
 
   galleryItems: [
+     {
+      title: 'Stress Relief',
+      category: 'exercise',
+      imageUrl: '/gallery/stress-relief-1.jpg', 
+      alt: 'M.A.A. Zekeriya practicing ruk asana',
+    },
     {
       title: 'Ruk Asana',
       category: 'Poses',
