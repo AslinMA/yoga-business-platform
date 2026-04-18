@@ -80,9 +80,9 @@ export const siteContent: SiteContent = {
   galleryItems: [
      {
       title: 'Stress Relief',
-      category: ' Wellness',
+      category: ' Teaching',
       imageUrl: '/gallery/stress-relief-1.jpeg', 
-      alt: 'M.A.A. Zekeriya practicing ruk asana',
+      alt: 'M.A.A. Zekeriya practicing stress relief teaching',
     },
     {
       title: 'Ruk Asana',
