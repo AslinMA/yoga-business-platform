@@ -78,11 +78,23 @@ export const siteContent: SiteContent = {
     'Teaching moments, yoga poses, and memorable wellness practice highlights.',
 
   galleryItems: [
-     {
-      title: 'Stress Relief',
-      category: ' Teaching',
-      imageUrl: '/gallery/stress-relief-1.jpeg', 
-      alt: 'M.A.A. Zekeriya practicing stress relief teaching',
+    {
+      title: 'Stress Relief 1',
+      category: 'Teaching',
+      imageUrl: '/gallery/stress-relief-1.jpeg',
+      alt: 'M.A.A. Zekeriya teaching stress relief session 1',
+    },
+    {
+      title: 'Stress Relief 2',
+      category: 'Teaching',
+      imageUrl: '/gallery/stress-relief-2.jpeg',
+      alt: 'M.A.A. Zekeriya teaching stress relief session 2',
+    },
+    {
+      title: 'Stress Relief 3',
+      category: 'Teaching',
+      imageUrl: '/gallery/stress-relief-3.jpeg',
+      alt: 'M.A.A. Zekeriya teaching stress relief session 3',
     },
     {
       title: 'Ruk Asana',
