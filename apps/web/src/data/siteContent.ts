@@ -174,7 +174,7 @@ export const siteContent: SiteContent = {
 
   testimonialsTitle: 'Student Feedback',
   testimonialsDescription:
-    'Real student reviews can be added here later to strengthen trust and credibility.',
+    'Real student reviews added here ',
 
   testimonials: [
     {
